@@ -1,0 +1,5 @@
+SecurePass.pyw
+auth/
+    __init__.py
+    register.py
+    main_window.py
